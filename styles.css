@@ -8,3 +8,6 @@ body{
 .content{
 	width:600px;
 }
+.imageContainer img{
+	width:200px;
+}
